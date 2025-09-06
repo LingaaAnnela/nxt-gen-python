@@ -7,7 +7,7 @@ app = FastAPI()
 origins = [
     "https://nextgenerationmart.com",  # Next Generation Mart
     "https://nxtgenmart.com",  # Next Generation Mart
-    "https://lingaaannela.github.io/nxt-gen-aio",  # GitHub Pages
+    "https://lingaaannela.github.io",  # GitHub Pages
     "http://localhost:4200"            # optional, for local dev
 ]
 
